@@ -5,8 +5,8 @@
 Clone the repo and install the dependencies.
 
 ```bash
-git clone https://github.com/contentful/the-example-app.nodejs.git
-cd the-example-app.nodejs
+https://github.com/arvind3417/rapidbooks_assignment.git
+cd rapidbooks_assignment
 ```
 
 ```bash
